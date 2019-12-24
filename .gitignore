@@ -1,0 +1,10 @@
+# javascript
+dist/
+node_modules
+
+# temp files
+**/*~
+
+# terraform
+.terraform
+terraform*
